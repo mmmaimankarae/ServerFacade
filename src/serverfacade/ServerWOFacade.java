@@ -1,12 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/* Kitthanya Teachanontkullawat (Mine) 64050027
+    Facade Pattern
+*/
 
-package serverwofacade;
+package serverfacade;
+
 public class ServerWOFacade {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ScheduleServer scheduleServer = new ScheduleServer();
 	scheduleServer.startBooting();
 	scheduleServer.readSystemConfigFile();
@@ -22,6 +21,5 @@ public class ServerWOFacade {
 	scheduleServer.destoryListeners();
 	scheduleServer.destoryContext();
 	scheduleServer.shutdown();
-    }
-    
+    }*/
 }
